@@ -1,13 +1,13 @@
 {
-  "name": "active-win",
-  "version": "2.0.0",
-  "description": "Get the title / window id / app name / process ID of the active window (macOS, Linux, Windows)",
+  "name": "active-win-lite",
+  "version": "2.1.0",
+  "description": "Get the title / window id / app name /appPath/ process ID of the active window (macOS, Linux, Windows)",
   "license": "MIT",
   "repository": "sindresorhus/active-win",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+    "name": "forked, not origin",
+    "email": "bingfeng.ch3n@gmail.com",
+    "url": "http://boringuniverse.com"
   },
   "engines": {
     "node": ">=4"
