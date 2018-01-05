@@ -35,9 +35,9 @@ int main() {
 				};
 
 				NSDictionary *dict = @{
-					@"title": title,
+					@"title": title ? title : @"",
 					@"id": @(winId),
-					@"app": app,
+					@"app": app ? app : @"",
 					@"pid": @(pid),
 					@"bounds": bounds
 				};
