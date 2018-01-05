@@ -5,6 +5,7 @@
 
 ##Changelog
 2.1.2 修复main.m里面，没有检查nil而异常
+2.1.3 更新main二进制文件，在改main.m后要手动npm run make
 
 
 # active-win [![Build Status](https://travis-ci.org/sindresorhus/active-win.svg?branch=master)](https://travis-ci.org/sindresorhus/active-win)
