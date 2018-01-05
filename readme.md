@@ -3,6 +3,9 @@
 
 	forked from origin.
 
+##Changelog
+2.1.2 修复main.m里面，没有检查nil而异常
+
 
 # active-win [![Build Status](https://travis-ci.org/sindresorhus/active-win.svg?branch=master)](https://travis-ci.org/sindresorhus/active-win)
 
